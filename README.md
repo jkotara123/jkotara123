@@ -1,6 +1,6 @@
 # Hi, I'm Jakub 👋
 
-**Computer Science student** at AGH University in Cracow
+**Computer Science student** at AGH University in Cracow  
 📍 Kraków, Poland  
 📫 jakub.kotara14@gmail.com | [LinkedIn](https://linkedin.com/in/jakub-kotara) 
 
